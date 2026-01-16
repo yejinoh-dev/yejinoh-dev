@@ -23,7 +23,5 @@
 <div style="text-align: left; margin-top: 40px;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥 Streak-stats </h2>
   <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yejinoh-dev"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yejinoh-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
