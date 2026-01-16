@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
       <br/></div>
 </div>
