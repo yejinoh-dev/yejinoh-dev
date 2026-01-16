@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
       <br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-      <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
+      <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
