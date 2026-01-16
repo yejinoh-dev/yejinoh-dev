@@ -20,5 +20,4 @@
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
       <br/></div>
 </div>
-<img src="https://raw.githubusercontent.com/yejinoh-dev/yejinoh-dev/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/yejinoh-dev/yejinoh-dev/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yejinoh-dev/yejinoh-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
