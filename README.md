@@ -21,3 +21,4 @@
       <br/></div>
 </div>
 <img src="https://raw.githubusercontent.com/yejinoh-dev/yejinoh-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yejinoh-dev/yejinoh-dev/output/github-snake.svg" alt="Snake animation" />
