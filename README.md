@@ -20,4 +20,9 @@
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
       <br/></div>
 </div>
-<img src="https://raw.githubusercontent.com/yejinoh-dev/yejinoh-dev/output/github-snake.svg" alt="Snake animation" />
+
+<div style="text-align: left; margin-top: 40px;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐍 My Contribution Snake </h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/yejinoh-dev/yejinoh-dev/output/github-snake.svg" alt="Snake animation" />
+</div>
