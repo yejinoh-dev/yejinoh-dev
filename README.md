@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=yejin's%20Github🐣&animation=twinkling&fontColor=000000&fontSize=40" />
     </div>
-<div style="text-align: left;">
+<!-- <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
       <br/></div>
-</div>
+</div> -->
 
 <div style="text-align: left; margin-top: 40px;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐍 My Contribution Snake </h2>
